@@ -4,3 +4,5 @@ node_modules
 
 # Smile Track
 /.smile-track
+
+.env
