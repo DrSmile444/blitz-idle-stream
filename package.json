@@ -7,7 +7,7 @@
     "start": "node ./src/app.js",
     "test": "echo \"Error: no test specified\" && exit 1",
     "prepare": "husky install",
-    "lint": "npm-run-all --parallel lint:branch-name lint:styles lint:js",
+    "lint": "npm-run-all --parallel lint:branch-name lint:js",
     "lint:branch-name": "branch-name-lint ./.branchlintrc.json",
     "lint:commit-name": "commitlint --edit",
     "track-time": "smile-track",
