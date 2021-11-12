@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "login": "email@gmail.com",
+      "password": "your_password"
+    }
+  ],
+  "streams": [
+    "https://ru.wotblitz.com/en/tournaments/streams/220/#/",
+    "https://ru.wotblitz.com/en/tournaments/streams/221/#/"
+  ]
+}
