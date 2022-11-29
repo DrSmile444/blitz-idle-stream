@@ -5,7 +5,7 @@ It supports several accounts and streams.
 
 ## Start
 
-1) Fill `config.example.json`:
+1) Fill `config.example.json` and copy into `config.json`:
 
 ```json
 {
