@@ -9,7 +9,7 @@ const SELECTORS = {
 };
 
 const PAGES = {
-  login: 'https://ru.wargaming.net/id/signin/',
+  login: 'https://eu.wargaming.net/id/signin/',
   streams: config.streams,
 };
 
