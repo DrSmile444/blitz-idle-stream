@@ -16,8 +16,8 @@ It supports several accounts and streams.
     }
   ],
   "streams": [
-    "https://ru.wotblitz.com/en/tournaments/streams/220/#/",
-    "https://ru.wotblitz.com/en/tournaments/streams/221/#/"
+    "https://eu.wotblitz.com/en/tournaments/streams/554/#/",
+    "https://eu.wotblitz.com/en/tournaments/streams/555/#/"
   ]
 }
 ```
